@@ -1,2 +1,6 @@
 SpeechRecognition
 pyaudio
+gTTS
+playsound==1.2.2
+arabic-reshaper
+python-bidi
